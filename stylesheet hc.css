@@ -1,0 +1,56 @@
+.ns
+{
+    border: 5px solid  red;
+    margin: 40px;
+    padding: 10px ;
+    color: rgb(242, 255, 240);
+    font-size: large;
+    text-align: center;
+    /* margin-bottom: 100px; */
+}
+button
+{
+    border: 2px solid blueviolet;
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: yellow;
+    margin-left: 100px;
+
+}
+body
+{
+    margin: auto;
+    /* width: 80%; */
+    /* width: 70%; */
+    /* background-image: url("https://www.pexels.com/photo/red-concrete-brick-259915/"); */
+  background-image: url(/bg.jpeg) ;
+}
+p
+{
+    color: red;
+    background-color: greenyellow;
+    text-align: center;
+    font-size: 32px;
+    /* 400 normal ,700 bold */
+    font-family: 600;
+}
+h1
+{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: bisque;
+  background-color: black;
+  text-align: center;
+}
+/* body
+{
+    /* background-color: greenyellow; */
+   /* background-image: url("https://www.pexels.com/photo/brown-brick-wall-235986/"); */
+   /* background-size: cover;  */
+   /* background-position: center; */
+   /* background-image: url("https://www.pexels.com/photo/silhouette-photo-of-man-with-backpack-standing-in-seashore-during-golden-hour-848573/") ; */
+} */
+.kk
+ {
+    color: blue
+    
+ }
